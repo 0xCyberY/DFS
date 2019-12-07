@@ -1,0 +1,11 @@
+Enter the number of nodes/vertices:
+3
+Enter the Adjacency Matrix:
+1 2 3
+1 4 7
+2 5 8
+
+ The nodes reachable from 0 are :0
+ The nodes reachable from 1 are :1 0
+ The nodes reachable from 2 are :2
+ 
